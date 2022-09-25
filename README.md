@@ -1,2 +1,0 @@
-# SuperBallRacing
-SuperBallRacing-DEMO
